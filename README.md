@@ -1,7 +1,7 @@
-Philbert (Philbert16)
+Philbert ([Philbert16](https://github.com/Philbert16/philbert16/tree/main))
 
 Frontend-focused software engineer with an interest in building practical web applications and integrating AI into everyday tools.
-I enjoy working on ideas that solve small but real problems — systems people can actually use, not just demos.
+I enjoy working on ideas that solve small but real problems systems people can actually use, not just demos.
 
  What I’m working on
 

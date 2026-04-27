@@ -8,7 +8,7 @@
 <td width="155" valign="middle" align="center">
 
 <div align="center">
-<img src="https://img.shields.io/badge/%3C%2F%3E-Code%20with%20Phil-1a1a2e?style=for-the-badge&logoColor=white" alt="Code with Phil logo"/>
+<img src="https://avatars.githubusercontent.com/u/217579136?v=4"/>
 </div>
 
 </td>

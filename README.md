@@ -192,10 +192,10 @@ A job platform for exploring listings and user interaction with a focus on clean
 
 ## 💼 Experience
 
-<img align="left" width="60" src="https://img.shields.io/badge/T-0f3460?style=for-the-badge&logoColor=white" style="margin-right:12px"/>
+<img align="left" width="60" src="https://media.licdn.com/dms/image/v2/D4E0BAQHAgFG2mpu96Q/company-logo_200_200/company-logo_200_200/0/1711563859157/techone_it_services_digital_solutions_logo?e=1778716800&v=beta&t=ynuQHQpevC491E6OPwRKguUdCeR1Mt87MJiQkkgXxRU"/>
 
 ### TechOne IT Services & Digital Solutions
-**Frontend Developer** · 2024 – Present | Remote
+**Frontend Developer** · 2024 – Present | On-site
 
 Working on client projects, building responsive interfaces, integrating APIs, and delivering scalable web solutions.
 

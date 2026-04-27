@@ -1,25 +1,83 @@
+<!--suppress ALL -->
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/Philbert16" width="120" style="border-radius:50%;" alt="Philbert Tiimah"/>
-
-# 👋 Hi, I'm **Philbert Tiimah**
-
-### 🚀 Frontend Engineer | TechOne IT Services & Digital Solutions
-
-*I craft fast, responsive, and user-friendly web applications with a focus on solving real-world problems through clean code and meaningful user experiences.*
-
-📍 Ghana &nbsp;&nbsp; 📧 [philinfo16@gmail.com](mailto:philinfo16@gmail.com) &nbsp;&nbsp; 🔗 [linkedin.com/in/philbert-tiimah](https://linkedin.com/in/philbert-tiimah)
-
----
-
-![Contributions](https://img.shields.io/badge/Contributions%20(Last%2012%20months)-73-blue?style=flat-square)
-![Repositories](https://img.shields.io/badge/Repositories%20Created-1-blue?style=flat-square)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests%20Merged-2-blue?style=flat-square)
-![Streak](https://img.shields.io/badge/Current%20Streak-0%20🔥%20Keep%20building!-orange?style=flat-square)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=80&section=header" width="100%"/>
 </div>
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="155" valign="middle" align="center">
+
+<div align="center">
+<img src="https://img.shields.io/badge/%3C%2F%3E-Code%20with%20Phil-1a1a2e?style=for-the-badge&logoColor=white" alt="Code with Phil logo"/>
+</div>
+
+</td>
+<td valign="middle" style="padding-left:20px">
+
+<h1>Philbert Tiimah</h1>
+
+<a href="https://github.com/Philbert16"><img src="https://img.shields.io/badge/Frontend%20Engineer%20%7C%20TechOne%20IT%20Services%20%26%20Digital%20Solutions-00b4d8?style=flat-square&logoColor=white"/></a>
+
+<br/><br/>
+
+*I craft fast, responsive, and user-friendly web applications with a focus*
+*on solving real-world problems through clean code and meaningful*
+*user experiences.*
+
+</td>
+<td width="260" valign="middle" align="right">
+
+![Skills](https://skillicons.dev/icons?i=html,css,ts&theme=dark&perline=3)<br/>
+![Skills](https://skillicons.dev/icons?i=angular,tailwind,github&theme=dark&perline=3)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+📍 Ghana &nbsp;&nbsp; 📧 [philinfo16@gmail.com](mailto:philinfo16@gmail.com) &nbsp;&nbsp; 🔗 [linkedin.com/in/philbert-tiimah](https://www.linkedin.com/in/philbert-tiimah)
+
 ---
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="25%" align="center">
+
+🧳 **73**<br/>
+Contributions<br/>
+<sub>Last 12 months</sub>
+
+</td>
+<td width="25%" align="center">
+
+📁 **1**<br/>
+Repositories<br/>
+<sub>Created</sub>
+
+</td>
+<td width="25%" align="center">
+
+🔀 **2**<br/>
+Pull Requests<br/>
+<sub>Merged</sub>
+
+</td>
+<td width="25%" align="center">
+
+🔥 **0**<br/>
+Current streak<br/>
+<sub>Keep building!</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%" border="0" cellspacing="0" cellpadding="16">
+<tr>
+<td width="50%" valign="top">
 
 ## 👤 About Me
 
@@ -29,7 +87,8 @@ My goal is to grow into a well-rounded engineer who can ship products that are s
 
 I value clean code, continuous learning, and collaborative teamwork.
 
----
+</td>
+<td width="50%" valign="top">
 
 ## ⚡ Tech Stack
 
@@ -49,30 +108,101 @@ I value clean code, continuous learning, and collaborative teamwork.
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects <a href="https://github.com/Philbert16?tab=repositories"><sub>View all repositories →</sub></a>
 
-| Project | Description | Tech | Repo |
-|---|---|---|---|
-| **Student Pickup Registration** | A system for schools to track who is picking up students. Improves safety, record keeping and communication. | HTML, Tailwind CSS, JavaScript | [GitHub](https://github.com/Philbert16/Student-Pickup-Registration) |
-| **Decree (Text Reader)** | A simple text-to-speech tool that converts written text into natural speech for accessibility. | HTML, JavaScript | [GitHub](https://github.com/Philbert16/Decree) |
-| **EliteShine Cleaning Agency** | A modern website for a cleaning service business with responsive design and clear service presentation. | HTML, CSS, JavaScript | [GitHub](https://github.com/Philbert16/EliteShine-Cleaning-Agency) |
-| **Vertex (Job Platform)** | A job platform for exploring listings and user interaction with a focus on clean structure and scalability. | HTML, Tailwind CSS, JavaScript | [GitHub](https://github.com/Philbert16/Vertex) |
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td width="25%" valign="top">
+
+<a href="https://github.com/Philbert16/Student-Pickup-Registration">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Student-Pickup-Registration&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+
+**[Student Pickup Registration](https://github.com/Philbert16/Student-Pickup-Registration)**
+
+A system for schools to track who is picking up students. Improves safety, record keeping and communication.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<sub>github.com/Philbert16/Student-Pickup-Registration</sub>
+
+</td>
+<td width="25%" valign="top">
+
+<a href="https://github.com/Philbert16/Decree">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Decree&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+
+**[Decree (Text Reader)](https://github.com/Philbert16/Decree)**
+
+A simple text-to-speech tool that converts written text into natural speech for accessibility.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<sub>github.com/Philbert16/Decree</sub>
+
+</td>
+<td width="25%" valign="top">
+
+<a href="https://github.com/Philbert16/EliteShine-Cleaning-Agency">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=EliteShine-Cleaning-Agency&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+
+**[EliteShine Cleaning Agency](https://github.com/Philbert16/EliteShine-Cleaning-Agency)**
+
+A modern website for a cleaning service business with responsive design and clear service presentation.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<sub>github.com/Philbert16/EliteShine-Cleaning-Agency</sub>
+
+</td>
+<td width="25%" valign="top">
+
+<a href="https://github.com/Philbert16/Vertex">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Vertex&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+
+**[Vertex (Job Platform)](https://github.com/Philbert16/Vertex)**
+
+A job platform for exploring listings and user interaction with a focus on clean structure and scalability.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<sub>github.com/Philbert16/Vertex</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
+<img align="left" width="60" src="https://img.shields.io/badge/T-0f3460?style=for-the-badge&logoColor=white" style="margin-right:12px"/>
+
 ### TechOne IT Services & Digital Solutions
-**Frontend Developer** · 2024 – Present · Remote
+**Frontend Developer** · 2024 – Present | Remote
 
 Working on client projects, building responsive interfaces, integrating APIs, and delivering scalable web solutions.
 
-- ✅ Developed and maintained responsive web applications
-- ✅ Collaborated with designers and backend developers
-- ✅ Integrated REST APIs and optimized performance
-- ✅ Followed best practices, code reviews, and Git workflows
+- ☑️ Developed and maintained responsive web applications
+- ☑️ Collaborated with designers and backend developers
+- ☑️ Integrated REST APIs and optimized performance
+- ☑️ Followed best practices, code reviews, and Git workflows
 
 ---
 
@@ -80,40 +210,42 @@ Working on client projects, building responsive interfaces, integrating APIs, an
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Philbert16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Philbert16&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Philbert16&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Philbert16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Philbert16&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
-| Metric | Count |
-|---|---|
-| ⭐ Total Stars Earned | 1 |
-| 💬 Total Commits (last year) | 6 |
-| 🔀 Total PRs | 2 |
-| 🐛 Total Issues | 0 |
-| 🤝 Contributed to (last year) | 0 |
+<div align="center">
+
+| ⭐ Total Stars | 💬 Commits (yr) | 🔀 Total PRs | 🐛 Issues | 🤝 Contributed to |
+|:---:|:---:|:---:|:---:|:---:|
+| 1 | 6 | 2 | 0 | 0 |
+
+**73** Total Contributions *(May 2024 – Apr 2025)* &nbsp;|&nbsp; **🔥 0** Current Streak *(Keep it going!)* &nbsp;|&nbsp; **5** Longest Streak *(Aug 4–9, 2024)*
+
+</div>
 
 ---
 
 ## 📅 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Philbert16&theme=tokyo-night&hide_border=true)
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Philbert16&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) **Quickdraw ×2** &nbsp;&nbsp;&nbsp; ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) **Pull Shark ×2**
+![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) &nbsp; **Quickdraw ×2** &nbsp;&nbsp;&nbsp;&nbsp; ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) &nbsp; **Pull Shark ×2**
 
 ---
 
 ## 🔭 What I'm Working On
 
 - Building AI-powered web apps
-- Improving my understanding of system design
+- Improving *my* understanding of system design
 - Getting more comfortable with TypeScript and scalable frontend structure
 - Turning ideas into real products and solving real user problems
 
@@ -129,6 +261,6 @@ Working on client projects, building responsive interfaces, integrating APIs, an
 
 <div align="center">
 
-> *"I don't just write code — I build solutions that make a difference. 🚀"*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer&text=I%20don't%20just%20write%20code%20%E2%80%94%20I%20build%20solutions%20that%20make%20a%20difference.%20%F0%9F%9A%80&fontSize=13&fontColor=8b949e&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>

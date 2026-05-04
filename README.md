@@ -121,7 +121,7 @@ I value clean code, continuous learning, and collaborative teamwork.
 <td width="25%" valign="top">
 
 <a href="https://github.com/Philbert16/Student-Pickup-Registration">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Student-Pickup-Registration&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Student-Pickup-Registration&theme=tokyonight&hide_border=true" width="100%](https://postimg.cc/B8hjykXY)"/>
 </a>
 
 **[Student Pickup Registration](https://github.com/Philbert16/Student-Pickup-Registration)**
@@ -138,7 +138,7 @@ A system for schools to track who is picking up students. Improves safety, recor
 <td width="25%" valign="top">
 
 <a href="https://github.com/Philbert16/Decree">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Decree&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Decree&theme=tokyonight&hide_border=true" width="100%](https://postimg.cc/RJhyd32d)"/>
 </a>
 
 **[Decree (Text Reader)](https://github.com/Philbert16/Decree)**
@@ -154,7 +154,7 @@ A simple text-to-speech tool that converts written text into natural speech for 
 <td width="25%" valign="top">
 
 <a href="https://github.com/Philbert16/EliteShine-Cleaning-Agency">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=EliteShine-Cleaning-Agency&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=EliteShine-Cleaning-Agency&theme=tokyonight&hide_border=true" width="100%](https://postimg.cc/SX8yLPcQ)"/>
 </a>
 
 **[EliteShine Cleaning Agency](https://github.com/Philbert16/EliteShine-Cleaning-Agency)**
@@ -171,7 +171,7 @@ A modern website for a cleaning service business with responsive design and clea
 <td width="25%" valign="top">
 
 <a href="https://github.com/Philbert16/Vertex">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Vertex&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Vertex&theme=tokyonight&hide_border=true" width="100%](https://postimg.cc/PCsVpFfz)"/>
 </a>
 
 **[Vertex (Job Platform)](https://github.com/Philbert16/Vertex)**

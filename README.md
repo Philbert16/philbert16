@@ -121,7 +121,7 @@ I value clean code, continuous learning, and collaborative teamwork.
 <td width="25%" valign="top">
 
 <a href="https://github.com/Philbert16/Student-Pickup-Registration">
-<img src="[![Shcool-Pickup.jpg](https://i.postimg.cc/V6wXSc18/Shcool-Pickup.jpg)](https://postimg.cc/B8hjykXY)"/>
+<img src="https://i.postimg.cc/V6wXSc18/Shcool-Pickup.jpg"/>
 </a>
 
 **[Student Pickup Registration](https://github.com/Philbert16/Student-Pickup-Registration)**

@@ -138,7 +138,7 @@ A system for schools to track who is picking up students. Improves safety, recor
 <td width="25%" valign="top">
 
 <a href="https://github.com/Philbert16/Decree">
-<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Decree&theme=tokyonight&hide_border=true" width="100%](https://postimg.cc/RJhyd32d)"/>
+<img src="https://i.postimg.cc/0j0v8DfT/Decere.png"/>
 </a>
 
 **[Decree (Text Reader)](https://github.com/Philbert16/Decree)**
@@ -154,7 +154,7 @@ A simple text-to-speech tool that converts written text into natural speech for 
 <td width="25%" valign="top">
 
 <a href="https://github.com/Philbert16/EliteShine-Cleaning-Agency">
-<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=EliteShine-Cleaning-Agency&theme=tokyonight&hide_border=true" width="100%](https://postimg.cc/SX8yLPcQ)"/>
+<img src="https://i.postimg.cc/g0tnpFJh/Elite-Shine.jpg"/>
 </a>
 
 **[EliteShine Cleaning Agency](https://github.com/Philbert16/EliteShine-Cleaning-Agency)**
@@ -171,7 +171,7 @@ A modern website for a cleaning service business with responsive design and clea
 <td width="25%" valign="top">
 
 <a href="https://github.com/Philbert16/Vertex">
-<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Philbert16&repo=Vertex&theme=tokyonight&hide_border=true" width="100%](https://postimg.cc/PCsVpFfz)"/>
+<img src="https://i.postimg.cc/0yrT4LL3/Vertex.jpg"/>
 </a>
 
 **[Vertex (Job Platform)](https://github.com/Philbert16/Vertex)**

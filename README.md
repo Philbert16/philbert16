@@ -16,7 +16,7 @@
 
 <h1>Philbert Tiimah</h1>
 
-<a href="https://github.com/Philbert16"><img src="https://img.shields.io/badge/Frontend%20Engineer%20%7C%20TechOne%20IT%20Services%20%26%20Digital%20Solutions-00b4d8?style=flat-square&logoColor=white"/></a>
+<a href="https://github.com/Philbert16"><img src="https://img.shields.io/badge/Software%20Engineer%20%7C%20TechOne%20IT%20Services%20%26%20Digital%20Solutions-00b4d8?style=flat-square&logoColor=white"/></a>
 
 <br/><br/>
 
